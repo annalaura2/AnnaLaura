@@ -117,7 +117,7 @@ h6 {
 
 #header .profile .social-links a:hover {
   background: #dc5ef9;
-  color: #fff;
+  color: #212431;
   text-decoration: none;
 }
 
@@ -198,7 +198,7 @@ h6 {
   transition: all 0.4s;
   outline: none !important;
   background-color: #dc5ef9;
-  color: #fff;
+  color: #ffffff;
   width: 40px;
   height: 40px;
   display: inline-flex;
@@ -287,7 +287,7 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Sections General
+# -s General
 --------------------------------------------------------------*/
 section {
   padding: 60px 0;
@@ -438,7 +438,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #dce8f8;
+  background: #ceabdd;
   height: 10px;
 }
 
@@ -446,7 +446,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #dc5ef9;
+  background-color: #9c47b0;
 }
 
 /*--------------------------------------------------------------
